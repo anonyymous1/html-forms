@@ -55,8 +55,10 @@ form {
     cursor: pointer;
 }
 .error::after {
-    background-color: hsl(10, 60%, 50%);
+    background-color: hsl(10, 100%, 31%);
+    border-radius: 20px;
     color: papayawhip;
+    text-align: center;
     font-size: 1rem;
     line-height: 1.8;
     width: 350px;
